@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="FR">
+  <head>
+	<link rel="stylesheet" href="style.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boulangerie ENR</title>
+  </head>
+  <body>
+  <a href="" rel="stylesheet">
+		<img src="Chae1.png" style="width:150px;height:75px;">
+		
+	</a>
+     <a href="https://qualista.fr/"rel="stylesheet" >
+	 <img src="qualista.png" title="Aller sur le site Qualista" alt="Lien vers le site Qualista" style="width:150px;height:75px;">
+	 Notre Farine
+	</a>
+	<a href="" rel="stylesheet">
+		Nos produits 
+	</a>
+	<a href="" rel="stylesheet">
+		Prendre commande
+	</a>
+	<a href="" rel="stylesheet">
+		Contactez-nous
+	</a>
+	
+	
+  </body>
+</html>
+ 
